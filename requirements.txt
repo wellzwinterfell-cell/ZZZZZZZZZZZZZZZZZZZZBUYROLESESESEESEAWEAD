@@ -1,0 +1,5 @@
+nextcord>=2.0.0
+httpx>=0.24.0
+requests>=2.31.0
+Flask
+certifi>=2023.7.22
